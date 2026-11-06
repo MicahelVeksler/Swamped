@@ -31,7 +31,14 @@ src/hooks/               Bookmark state
 src/styles/              Global styles
 ```
 
-Every file currently contains a one-line description of its intended purpose. Implementation comes next.
+Made the app shell: three placeholder screens, a bottom tab bar, and a pull-up bar on the map screen.
+
+## Getting started
+
+```
+npm install
+npm run dev
+```
 
 ## Risks
 
