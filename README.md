@@ -25,7 +25,6 @@ CEN4721 Human-Computer Interaction, University of Florida.
 ```
 git clone https://github.com/gabrieltvelazquez/Swamped.git
 cd Swamped
-git checkout feature/full-implementation
 npm install
 npm run dev
 ```
